@@ -19,7 +19,7 @@ The layout can be found in: https://www.uistore.design/items/roxio-free-taxi-app
 
 Clone this repo:
 
-    git clone https://github.com/jonatasfl/react-native-taxi-app-ui.git
+    git clone https://github.com/0xCryptoAngel/react-native-taxi-app-ui.git
 
 Install Dependencies:
 
